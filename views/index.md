@@ -5,5 +5,4 @@
 | /yt |  My Youtube Channel |
 | /gg | My Discord Server |
 | /ig | Instagram Profile|
-| /linktree | Link list |
-| /freerobux | 100% real |
+| /(anylink) | (Description) |
