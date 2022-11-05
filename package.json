@@ -1,0 +1,19 @@
+{
+  "name": "hahasociallink",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.2",
+    "jstransformer-markdown-it": "^2.1.0",
+    "pug": "^3.0.2"
+  },
+  "description": "Link Direct"
+}
