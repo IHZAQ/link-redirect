@@ -1,0 +1,23 @@
+html
+  head
+    title= title
+    meta(http-equiv="refresh" content="2; URL=" + url)
+    meta(name="description" content=desc)
+    meta(name="theme-color" content=color)
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+
+    meta(property="og:site_name" content="IHZAQSTORM33 Custom Short Link!")
+    meta(property="og:image" content=img)
+    meta(property="og:description" content=desc)
+    meta(property="og:title" content=title)
+
+    meta(property="twitter:card" content="summary")
+    meta(property="twitter:title" content=title)
+    meta(property="twitter:image" content=img)
+    meta(property="twitter:description" content=desc)
+    link(rel="icon" href=img)
+    style
+      include style.css
+  body
+    p Redirecting you
+      span#loader 
