@@ -1,6 +1,7 @@
 const link = require('./link')
 const express = require("express")
 const app = express()
+const { time } = require("./config.json")
 
 const parser = require("body-parser")
 app.set(parser.json())
@@ -21,11 +22,12 @@ app.get('/:para', (req, res) => {
       color: para.color,
       title: para.title,
       desc: para.desc,
-      img: para.img
+      img: para.img,
+      time
     })
     res.status(200)
   }
 })
 app.listen(3000, () => {
-  console.log(`Ready to fucking redirect`)
+  console.log(`Ready to redirect`)
 })
