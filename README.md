@@ -46,8 +46,9 @@ So after you host this project
 You need to go to your url
 
 For example
-`https://hahasociallink.ihzaqstorm33.repl.co/yt`
-Is gonna redirect my yt channel
-this much useful if you had a shorter domain
+`https://lnk.stormy.ml/freerobux`
+Is gonna redirect to a coolest ever music
+video in industry(yes its a rickroll) 
+And this much useful if you had a shorter domain
 
 Now explore this repo to find more setup
