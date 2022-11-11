@@ -43,7 +43,7 @@ understand better
 # How to use it
 
 So after you host this project
-You need to go to your url
+You need to go to `https://yourdomain.com/{link name here}`
 
 For example
 `https://lnk.stormy.ml/freerobux`
